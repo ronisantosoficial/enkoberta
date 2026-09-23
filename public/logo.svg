@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150" role="img" aria-labelledby="title">
+  <title>Enkoberta</title>
+  <g fill="none" stroke="#111315" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M58 57 L210 21 L362 57" />
+    <path d="M92 49 L210 21 L328 49" opacity=".55"/>
+  </g>
+  <text x="210" y="111" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="5" fill="#111315">ENKOBERTA</text>
+</svg>
